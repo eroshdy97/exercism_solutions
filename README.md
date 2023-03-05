@@ -2,7 +2,7 @@
 
 Here are my solutions for the exercises on [Exercism.org](http://exercism.org/) :smile:.
 
-My solutions is NOT by any means the fastest nor the smallest ones out there but it get the job done :sweat_smile:.
+My solutions is NOT by any means the fastest nor the smallest ones out there but it gets the job done :sweat_smile:.
 
 Currently I have only python solutions :snake:.
 
